@@ -1,4 +1,3 @@
-import React, { useEffect, useRef } from "react";
 import { Doughnut } from "react-chartjs-2";
 import { Chart, ArcElement } from "chart.js";
 

@@ -10,8 +10,6 @@ const Hero = () => {
     toggleModal,
   } = useGlobalContext();
 
-  const progressStyles = {};
-
   return (
     <section>
       <p className="w-400 skill-text">Skill Test</p>
